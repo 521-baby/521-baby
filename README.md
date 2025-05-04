@@ -3,6 +3,8 @@
 
 # 我是痞帅
 
-
-
 A college student who is self-taught.
+
+
+### Visitor Count：
+<img src="https://count.kjchmc.cn/get/@lswlc33?theme=gelbooru" alt="If you are unable to see this, please re

@@ -1,10 +1,10 @@
-# Hello-Github
+### ![Hello World!](https://glitch-art.vercel.app/api/simple?word={Hello%20World}) 👋
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/NianBroken/NianBroken/WriteCodes.gif"/></div>
 
-# 我是痞帅
+Hi, I'm [春树]()
 
-A college student who is self-taught.
-
+A person devoted to what he love.
+- <img src='https://github.com/user-attachments/assets/830f9d78-a85c-4d62-be5e-cc0af727eabe' width='16px' /> 投喂渠道：[爱发电]() or [微信赞赏]()</del>
 
 ### Visitor Count：
 <img src="https://count.kjchmc.cn/get/@521-baby?theme=gelbooru" alt="If you are unable to see this, please refresh the page.">

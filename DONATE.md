@@ -2,4 +2,4 @@
 
 <img width="400" src="https://github.com/521-baby/521-baby/blob/main/WeChat_praise.jpg">
 
-其他投喂渠道：[⚡爱发电](https://afdian.com/a/chunshu)
+其他投喂渠道：[⚡爱发电](https://afdian.com/a/chunshu) or [支付宝](https://github.com/521-baby/521-baby/blob/main/DONATE2.md)
